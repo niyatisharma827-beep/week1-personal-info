@@ -1,0 +1,9 @@
+```text
+Test Case 1: Standard Input
+Food: Pizza
+Color: Blue
+Result: Successfully displays capitalized input values.
+
+Test Case 2: Validation Check (Empty Input)
+Food: [Pressed Enter directly] -> Re-prompts with "Please enter a valid food!"
+Color: [Pressed Space and Enter] -> Re-prompts with "Please enter a valid color!"
