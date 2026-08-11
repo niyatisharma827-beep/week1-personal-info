@@ -14,3 +14,6 @@ This is my first Python project! It's a program that stores, processes, and disp
 2. Navigate to the project folder:
    ```bash
    cd week1-personal-info
+
+   ## Visual Documentation
+![Program Output Screenshot](output_screenshot.png)
